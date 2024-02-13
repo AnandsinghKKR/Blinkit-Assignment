@@ -1,0 +1,7 @@
+SetUp Process Frontend: 1. cd client
+                        2. npm install
+                        3. npm run dev
+
+SetUp Process Backend:  1. cd server
+                        2. npm install
+                        3. nodemon index.js
